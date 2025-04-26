@@ -1,0 +1,123 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hello",
+          "Hey there",
+          "Good morning",
+          "Good evening"
+        ],
+        "responses": [
+          "Hello! Welcome to the Green Business Consultant. 🌱 How can I help you today?",
+          "Hi there! Ready to make your business more sustainable?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Bye",
+          "Goodbye",
+          "See you later",
+          "Talk to you soon"
+        ],
+        "responses": [
+          "Goodbye! Stay green and keep making a difference! 🌍",
+          "Take care! Reach out anytime for sustainability advice!"
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": [
+          "Thanks",
+          "Thank you",
+          "Appreciate it",
+          "Much appreciated"
+        ],
+        "responses": [
+          "You're welcome! Happy to assist with your green journey!",
+          "Anytime! 🌱 Let’s build a better world together."
+        ]
+      },
+      {
+        "tag": "energy_source",
+        "patterns": [
+          "What are renewable energy options for businesses?",
+          "How can my company use green energy?",
+          "Switching to renewable energy",
+          "Renewable vs fossil fuels for business"
+        ],
+        "responses": [
+          "Businesses can use solar panels, wind turbines, geothermal systems, or buy renewable energy credits to shift to greener sources.",
+          "Switching to renewable energy like solar, wind, or hydro can significantly lower your carbon footprint and energy costs."
+        ]
+      },
+      {
+        "tag": "waste_management",
+        "patterns": [
+          "How can my business manage waste sustainably?",
+          "Ideas for recycling in business",
+          "How to start a recycling program",
+          "Reduce waste in my company"
+        ],
+        "responses": [
+          "Start by conducting a waste audit, setting recycling bins, partnering with recyclers, and educating your employees about sustainable practices.",
+          "Reducing paper usage, composting organic waste, and minimizing packaging are great steps toward waste management."
+        ]
+      },
+      {
+        "tag": "carbon_tracking",
+        "patterns": [
+          "How can I track my company's carbon emissions?",
+          "Carbon footprint tracking for companies",
+          "Benefits of tracking carbon emissions",
+          "Ways to measure carbon emissions"
+        ],
+        "responses": [
+          "You can use carbon accounting software, hire consultants, or refer to international standards like the GHG Protocol to track emissions.",
+          "Tracking emissions helps businesses identify reduction opportunities and meet environmental compliance goals."
+        ]
+      },
+      {
+        "tag": "certifications",
+        "patterns": [
+          "What are green certifications for businesses?",
+          "How to get a sustainability certification?",
+          "Examples of green certifications",
+          "Is it worth getting a green certificate?"
+        ],
+        "responses": [
+          "Green certifications like LEED, B Corp, ENERGY STAR, and ISO 14001 recognize businesses for sustainability efforts.",
+          "Getting certified builds credibility, attracts eco-conscious customers, and strengthens your brand."
+        ]
+      },
+      {
+        "tag": "sustainability_goals",
+        "patterns": [
+          "What are common sustainability goals for companies?",
+          "How to set sustainability targets?",
+          "Examples of sustainability goals",
+          "Net Zero and Carbon Neutral goals"
+        ],
+        "responses": [
+          "Common goals include achieving Net Zero emissions, using 100% renewable energy, zero waste operations, and sustainable sourcing.",
+          "Setting clear, measurable, and time-bound sustainability goals can help track and showcase your green progress."
+        ]
+      },
+      {
+        "tag": "water_conservation",
+        "patterns": [
+          "How can businesses conserve water?",
+          "Tips for water conservation in office",
+          "Reducing water usage at work",
+          "Water-saving techniques for companies"
+        ],
+        "responses": [
+          "Install low-flow fixtures, fix leaks promptly, use drought-resistant landscaping, and educate employees about saving water.",
+          "Smart irrigation systems and rainwater harvesting can significantly cut down water usage."
+        ]
+      }
+    ]
+  }
+  
